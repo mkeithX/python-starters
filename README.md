@@ -1,43 +1,15 @@
 # Python Starters
 
-Basic python examples for all users.
+This repo contains basic, small-scale Python applications for all users. 
 
-## Run locally
+<h4 align="center">
+Click or Scan to learn more.
+</h4>
 
-This require latest version of [Python 3.10](https://www.python.org/downloads/), [Git](https://git-scm.com/downloads) and your fav IDE ([VSCode](https://code.visualstudio.com/).)
+<p align="center">
+    <a href="https://mkeithx.github.io/docs/demo/python-starters"  target="_blank">
+<img align="center" width="200" height="200" src="https://imgur.com/SYg9MHk.png"/>
+</a>
+</p>
 
-### Installation
-
-#### Clone Repo
-
-```bash
-git clone https://github.com/mkeithX/python-starters.git
-```
-
-```bash
-cd python-starters
-```
-
-#### Setup Virtual Environment
-
-```bash
-py -m venv .venv
-```
-
-```bash
-.venv\Scripts\activate
-```
-
-#### Managing Dependencies
-
-```bash
-py -m pip install --upgrade pip
-```
-
-```bash
-py -m pip install --upgrade -r requirements.txt
-```
-
-## More
-
-More cool stuff at [MKX SpaceHub](https://mkeithx.github.io/)
+---
